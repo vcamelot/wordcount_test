@@ -25,3 +25,7 @@ Max execution time is set in line 137 (for large files the standard timeout of 3
 After playing with different read buffer sizes I came to the conclusion that best performance is achieved when read buffer is set to 8K.
 
 Text file of 1 gigabyte is parsed within 130-140 seconds on my Core i5 2.6GHz.
+
+## Sample files
+
+Several text files of different sizes are added for testing purposes.
